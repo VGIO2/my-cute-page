@@ -88,13 +88,17 @@ header ul li a{
     padding: 30px 0 30px 0;
     background-image: url(../images/tile2.png);
 }
-.red .img-responsive{
-    width: 60%;
-    margin-left: 220px;
-    margin-top: 30px;
+.red ul{
+    list-style: none;
+    margin-top: 20px;
 }
-
-
+.red ul li {
+    display: inline-block;
+    margin-left: 45px;
+}
+.red .insta{
+    width: 128px;
+}
 
 
 
